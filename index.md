@@ -2,7 +2,14 @@
 layout: default
 ---
 
-MES Text can be **bold**, _italic_, or ~~strikethrough~~.
+> Bonjour, 
+> Je m'appelle **Vincent** et je suis chef de projet Digital et UX/UI Designer
+> J'interviens dans tout le cycle de vie du développement du projet. De part mes précédentes missions techniques, je suis également en mesure d'interagir directement avec les équipes SI projet.
+>
+> Voici quelques-une de mes réalisations. **Enjoy !**
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 

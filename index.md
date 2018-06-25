@@ -9,7 +9,7 @@ layout: default
 > Voici quelques-une des réalisations que j'ai réalisé ces dernières années.
 
 
-    <div class="section">
+    <div>
       <div class="row center-align">
         <div class="col l6 s12 card-hover" style="padding:3.5% !important" onclick="">
             

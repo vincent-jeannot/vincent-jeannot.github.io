@@ -3,11 +3,48 @@ layout: default
 ---
 
 > Bonjour, 
-> Je m'appelle **Vincent** et je suis chef de projet Digital et UX/UI Designer
+> Je m'appelle **Vincent Jeannot** et je suis chef de projet Digital et UX/UI Designer.
 > J'interviens dans tout le cycle de vie du développement du projet. De part mes précédentes missions techniques, je suis également en mesure d'interagir directement avec les équipes SI projet.
 >
-> Voici quelques-une de mes réalisations. **Enjoy !**
+> Voici quelques-une des réalisations que j'ai réalisé ces dernières années.
 
+
+    <!--   Projects section   -->
+    <div class="section">
+      <div class="row center-align">
+        <div class="col l6 s12 card-hover" style="padding:3.5% !important" onclick="">
+            
+          <img src="img/google.png" class="responsive-img"><br><br>
+
+          <p class="left-align large-text">
+            <span class="xxx-large-text">Google AdWords<br></span>
+            Simplifying campaign creation and automation
+          </p>
+
+          <div class="chip left">AdWords</div>
+          <div class="chip left">Machine Learning</div>
+
+        </div>
+
+        <div class="col l6 s12 card-hover" style="padding:3.5% !important" onclick="window.location = 'projects/walmart.html';">
+          
+          <img src="img/walmartlabs.png" class="responsive-img"><br><br>
+
+          <p class="left-align large-text">
+            <span class="xxx-large-text">Walmart Labs<br></span>
+            Designing to improve purchase experience on Sam's Club
+          </p>
+
+          <div class="chip left">E-commerce</div>
+          <div class="chip left">Responsive Web</div>
+          
+        </div>
+
+      </div>
+      
+ </div>
+      
+      
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

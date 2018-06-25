@@ -9,7 +9,6 @@ layout: default
 > Voici quelques-une des réalisations que j'ai réalisé ces dernières années.
 
 
-    <!--   Projects section   -->
     <div class="section">
       <div class="row center-align">
         <div class="col l6 s12 card-hover" style="padding:3.5% !important" onclick="">
@@ -41,9 +40,7 @@ layout: default
         </div>
 
       </div>
-      
- </div>
-      
+            
       
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
